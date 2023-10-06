@@ -1,6 +1,9 @@
 .d1 {
     border: 2px solid #00f;
     width: 50px;
+    height: 150px;
+    margin: auto;
+    padding: 10px;
     
 
 }
@@ -8,17 +11,25 @@
 .d2 {
     border: 2px solid #f40f;
     width: 55px;
+    height: 61px;
+    margin: 15px;
+    padding: 15px;
     
 }
 
 .d3 {
     border: 2px solid #f0f;;
     width: 54px;
+    height: 151px;
+    margin: auto;
+    padding: 20px;
     
 }
 
 .d4 {
     border: 2px solid #0ff;
-    width: 45px;
-    
+    width: 59px;
+    height: 60px;
+    margin: 25px;
+    padding: 25px;
 }
